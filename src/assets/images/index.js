@@ -31,7 +31,7 @@ export {
 
     footerLogo,
     headerLogo,
-
+    
     offer,
     shoe4,
     shoe5,
